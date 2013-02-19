@@ -1,2 +1,6 @@
 Data files for serving Pāḷi Tipiṭaka (tipitaka.zip) and Pāḷi Dictionary (pali-dict-linux-web1.zip)
 also external libraries (under extlib directory) for running Python code on Google App Engine
+
+File: jianfan-0.0.1.tar.gz
+Project website: http://code.google.com/p/python-jianfan/
+LICENSE: GNU GPL v2  
