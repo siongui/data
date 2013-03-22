@@ -10,6 +10,8 @@
   <dd><a href="http://babel.edgewall.org/wiki/License">revised BSD license</a></dd>
 </dl>
 
+---
+
 <dl>
  <dt>name</dt>
   <dd><a href="https://code.google.com/p/gae-pytz/">gae-pytz</a></dd>
@@ -21,6 +23,8 @@
  <dt>LICENSE</dt>
   <dd><a href="http://opensource.org/licenses/mit-license.php">MIT License</a></dd>
 </dl>
+
+---
 
 <dl>
  <dt>name</dt>
@@ -35,3 +39,19 @@
   <dd><a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU GPL v2</a></dd>
 </dl>
 
+---
+
+<dl>
+ <dt>name</dt>
+  <dd><a href="http://tongwen.openfoundry.org/">新同文堂(New Tong Wen Tang)</a></dd>
+ <dt>description</dt>
+  <dd>中文網頁繁簡轉換</dd>
+ <dt>file</dt>
+  <dd>pali/common/app/js/ext/tongwen_core.js</dd>
+  <dd>pali/common/app/js/ext/tongwen_table_pt2s.js</dd>
+  <dd>pali/common/app/js/ext/tongwen_table_t2s.js</dd>
+  <dd>pali/common/app/js/ext/tongwen_table_ps2t.js</dd>
+  <dd>pali/common/app/js/ext/tongwen_table_s2t.js</dd>
+ <dt>LICENSE</dt>
+  <dd><a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU GPL v2</a></dd>
+</dl>
