@@ -1,18 +1,37 @@
-* name: [Babel](http://babel.edgewall.org/)
-* description: A collection of tools for internationalizing Python applications
-* file: oriSrc/Babel-0.9.6.tar.gz
-* file: pali/common/gae/libs/babel.zip
-* LICENSE: [revised BSD license](http://babel.edgewall.org/wiki/License)
+<dl>
+ <dt>name</dt>
+  <dd><a href="http://babel.edgewall.org/">Babel</a></dd>
+ <dt>description</dt>
+  <dd>A collection of tools for internationalizing Python applications</dd>
+ <dt>file</dt>
+  <dd>oriSrc/Babel-0.9.6.tar.gz</dd>
+  <dd>pali/common/gae/libs/babel.zip</dd>
+ <dt>LICENSE</dt>
+  <dd><a href="http://babel.edgewall.org/wiki/License">revised BSD license</a></dd>
+</dl>
 
-* name: [gae-pytz](https://code.google.com/p/gae-pytz/)
-* description: pytz tuned for google app engine
-* file: oriSrc/gaepytz-2011h.tar.gz
-* file: pali/common/gae/libs/pytz.zip
-* LICENSE: [MIT License](http://opensource.org/licenses/mit-license.php)
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://code.google.com/p/gae-pytz/">gae-pytz</a></dd>
+ <dt>description</dt>
+  <dd>pytz tuned for google app engine</dd>
+ <dt>file</dt>
+  <dd>oriSrc/gaepytz-2011h.tar.gz</dd>
+  <dd>pali/common/gae/libs/pytz.zip</dd>
+ <dt>LICENSE</dt>
+  <dd><a href="http://opensource.org/licenses/mit-license.php">MIT License</a></dd>
+</dl>
 
-* name: [python-jianfan](https://code.google.com/p/python-jianfan/)
-* description: A python library for translation between traditional and simplified chinese
-* file: oriSrc/jianfan-0.0.1.tar.gz
-* file: pali/common/gae/libs/jianfan/__init__.py
-* file: pali/common/gae/libs/jianfan/charsets.py
-* LICENSE: [GNU GPL v2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://code.google.com/p/python-jianfan/">python-jianfan</a></dd>
+ <dt>description</dt>
+  <dd>A python library for translation between traditional and simplified chinese</dd>
+ <dt>file</dt>
+  <dd>oriSrc/jianfan-0.0.1.tar.gz</dd>
+  <dd>pali/common/gae/libs/jianfan/__init__.py</dd>
+  <dd>pali/common/gae/libs/jianfan/charsets.py</dd>
+ <dt>LICENSE</dt>
+  <dd><a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU GPL v2</a></dd>
+</dl>
+
