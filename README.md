@@ -73,3 +73,27 @@
  <dt>LICENSE</dt>
   <dd><a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU GPL v2</a></dd>
 </dl>
+
+---
+
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://github.com/siongui/data/blob/master/pali/common/app/js/services-dicPrefix.js">services-dicPrefix.js</a></dd>
+ <dt>description</dt>
+  <dd>index of Pāḷi words (used on client side)</dd>
+ <dt>file</dt>
+  <dd>pali/common/app/js/services-dicPrefix.js</dd>
+ <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
+</dl>
+
+---
+
+<dl>
+ <dt>name</dt>
+  <dd href="https://github.com/siongui/data/blob/master/pali/common/app/js/services-i18nStrings.js"><a>services-i18nStrings.js</a></dd>
+ <dt>description</dt>
+  <dd>translated strings for i18n (used on client side)</dd>
+ <dt>file</dt>
+  <dd>pali/common/app/js/services-i18nStrings.js</dd>
+ <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
+</dl>
