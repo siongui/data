@@ -90,7 +90,7 @@
 
 <dl>
  <dt>name</dt>
-  <dd href="https://github.com/siongui/data/blob/master/pali/common/app/js/services-i18nStrings.js"><a>services-i18nStrings.js</a></dd>
+  <dd><a href="https://github.com/siongui/data/blob/master/pali/common/app/js/services-i18nStrings.js">services-i18nStrings.js</a></dd>
  <dt>description</dt>
   <dd>translated strings for i18n (used on client side)</dd>
  <dt>file</dt>
