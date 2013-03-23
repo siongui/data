@@ -80,7 +80,7 @@
  <dt>name</dt>
   <dd><a href="https://github.com/siongui/data/blob/master/pali/common/app/js/services-dicPrefix.js">services-dicPrefix.js</a></dd>
  <dt>description</dt>
-  <dd>index of Pāḷi words (used on client side)</dd>
+  <dd>index of Pāḷi words for suggesting words according to user input and for url of looking up words. (used on client side)</dd>
  <dt>file</dt>
   <dd>pali/common/app/js/services-dicPrefix.js</dd>
  <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
@@ -95,5 +95,41 @@
   <dd>translated strings for i18n (used on client side)</dd>
  <dt>file</dt>
   <dd>pali/common/app/js/services-i18nStrings.js</dd>
+ <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
+</dl>
+
+---
+
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://github.com/siongui/data/blob/master/pali/common/gae/libs/json/dicPrefixGroup.json">dicPrefixGroup.json</a></dd>
+ <dt>description</dt>
+  <dd>index of Pāḷi words for url of looking up words. (used on server side)</dd>
+ <dt>file</dt>
+  <dd>pali/common/gae/libs/json/dicPrefixGroup.json</dd>
+ <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
+</dl>
+
+---
+
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://github.com/siongui/data/blob/master/pali/common/gae/libs/json/dicPrefixWordLists.json">dicPrefixWordLists.json</a></dd>
+ <dt>description</dt>
+  <dd>index of Pāḷi words for url of looking up words and checking if path is valid.(used on server side)</dd>
+ <dt>file</dt>
+  <dd>pali/common/gae/libs/json/dicPrefixWordLists.json</dd>
+ <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
+</dl>
+
+---
+
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://github.com/siongui/data/blob/master/pali/common/gae/libs/json/treeviewAll.json">treeviewAll.json</a></dd>
+ <dt>description</dt>
+  <dd>index of Pāḷi texts for determining path in the url. (used on server side)</dd>
+ <dt>file</dt>
+  <dd>pali/common/gae/libs/json/treeviewAll.json</dd>
  <dt><a href="http://unlicense.org/">UNLICENSE</a></dt>
 </dl>
