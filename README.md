@@ -1,5 +1,18 @@
 <dl>
  <dt>name</dt>
+  <dd><a href="http://www.tipitaka.org/">Pāḷi Tipiṭaka</a></dd>
+ <dt>description</dt>
+  <dd>The Pāḷi Canon</dd>
+ <dt>file</dt>
+  <dd>pali/common/romn/*</dd>
+ <dt>LICENSE</dt>
+  <dd>Unknown</dd>
+</dl>
+
+---
+
+<dl>
+ <dt>name</dt>
   <dd><a href="http://babel.edgewall.org/">Babel</a></dd>
  <dt>description</dt>
   <dd>A collection of tools for internationalizing Python applications</dd>
