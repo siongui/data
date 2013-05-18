@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-# author: Leon Dong <Leon.Dong@gmail.com> 老董
+# author: Leon Dong <Leon.Dong@gmail.com>
+# commiter: Thomas <tsroten@gmail.com>
 
 """
     Jianfan is a library for translation between traditional and simplified chinese.
+    Support Python 2 and Python 3. Thanks for Thomas to provide Python 3 support.
         two functions are provided by the library:
         jtof: translate simplified chinese to traditional chinese
         jtoj: translate traditional chinese to simplified chinese
@@ -15,7 +17,7 @@
         函数接受unicode和string类型作为参数，返回值统一为unicode
 """
 
-from .charsets import gbk, big5
+from charsets import gbk, big5
 
 def _t(unistr, charset_from, charset_to):
     """
@@ -24,10 +26,17 @@ def _t(unistr, charset_from, charset_to):
     if type(unistr) is str:
         try:
             unistr = unistr.decode('utf-8')
-        except:
+        # Python 3 returns AttributeError when .decode() is called on a str
+        # This means it is already unicode.
+        except AttributeError:
             pass
-    if type(unistr) is not unicode:
-        return unistr
+    try:
+        if type(unistr) is not unicode:
+            return unistr
+    # Python 3 returns NameError because unicode is not a type.
+    except NameError:
+        pass
+
     chars = []
     for c in unistr:
         idx = charset_from.find(c)
@@ -52,4 +61,3 @@ def ftoj(unicode_string):
         中华
     """
     return _t(unicode_string, big5, gbk)
-
