@@ -6,10 +6,3 @@ b_num 指辞典的代码 与词条表中每个词释义对应，说明词条出�
 
 "db_eword", 是 英语字母式的词 "db_word",是原词 "db_paliword" 去掉大写的词
 
-主要資料:
-dict-books.csv
-dict_words_1.csv
-dict_words_2.csv
-
-
-dict-words.csv資料不全
