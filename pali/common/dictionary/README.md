@@ -1,8 +1,31 @@
-utf-8 编码，2个表的第一行是 表的字段名，首2个是 一一对应的，
+# data format of dictionaries
 
-b_lang 指语言 C 中文 E 非中
+All files are utf-8 encoded.
 
-b_num 指辞典的代码 与词条表中每个词释义对应，说明词条出自哪本辞典
+## format of dict-books.csv
 
-"db_eword", 是 英语字母式的词 "db_word",是原词 "db_paliword" 去掉大写的词
+row = [cell1, cell2, cell3, cell4], each row represents one dictionary.
 
+1. cell1 (b_lang): "C" means chinese dictionary, "E" means non-chinese dictionary.
+
+2. cell2 (b_num): id of the dictionary. Each dictionary has a unique value.
+
+3. cell3 (b_dict): name of the dictionary.
+
+4. cell4 (b_dictauthor): name and author of the dictionary.
+
+## format of dict_words_1.csv and dict_words_2.csv
+
+row = [cell1, cell2, cell3, cell4, cell5, cell6, cell7], each row represent represents the explanation of a pali word in one dictionary.
+
+1. cell1: number of the row.
+
+2. cell2: the same as cell1 of dict-books.csv
+
+3. cell3: the same as cell2 of dict-books.csv
+
+4. cell4: fuzzy spelling of the pali word
+
+5. cell5 and cell6: the pali word. The first character of the cell may be upper-case.
+
+6. cell7: the explanation of the pali word in one dictionary.
