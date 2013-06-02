@@ -48,3 +48,18 @@
   <dd><a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU GPL v2</a></dd>
 </dl>
 
+---
+
+<dl>
+ <dt>name</dt>
+  <dd><a href="https://pypi.python.org/pypi/goslate">goslate</a></dd>
+ <dt>description</dt>
+  <dd>Unofficial Free Google Translation API</dd>
+ <dt>file</dt>
+  <dd>src/goslate-1.1.1.tar.gz</dd>
+ <dt>download</dt>
+  <dd><a href="https://pypi.python.org/packages/source/g/goslate/goslate-1.1.1.tar.gz#md5=cd4cb0d76fc92b280100085ade32c82f">goslate-1.1.1.tar.gz</a></dd>
+ <dt>LICENSE</dt>
+  <dd>License :: OSI Approved :: MIT License</dd>
+</dl>
+
