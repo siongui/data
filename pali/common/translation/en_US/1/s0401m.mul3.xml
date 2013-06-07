@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="chapter">4. Adantavaggo</p>
+
+<p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when untamed, leads to such great harm as the mind. The mind, when untamed leads to great harm."</p>
+
+<p rend="bodytext" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when tamed, leads to such great benefit as the mind. The mind, when tamed leads to great benefit."</p>
+
+<p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when unguarded, leads to such great harm as the mind. The mind, when unguarded leads to great harm."</p>
+
+<p rend="bodytext" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when guarded, leads to such great benefit as the mind. The mind, when guarded leads to great benefit."</p>
+
+<p rend="bodytext" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when unprotected, leads to such great harm as the mind. The mind, when unprotected leads to great harm."</p>
+
+<p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when protected, leads to such great benefit as the mind. The mind, when protected leads to great benefit."</p>
+
+<p rend="bodytext" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when unrestrained, leads to such great harm as the mind. The mind, when unrestrained leads to great harm."</p>
+
+<p rend="bodytext" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi> "I don't envision a single thing that, when restrained, leads to such great benefit as the mind. The mind, when restrained leads to great benefit."</p>
+
+<p rend="bodytext" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi> "I don't envision a single thing that — when untamed, unguarded, unprotected, unrestrained — leads to such great harm as the mind. The mind — when untamed, unguarded, unprotected, unrestrained — leads to great harm."</p>
+
+<p rend="bodytext" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi> "I don't envision a single thing that — when tamed, guarded, protected, restrained — leads to such great benefit as the mind. The mind — when tamed, guarded, protected, restrained — leads to great benefit."</p>
+
+<p rend="centre">Adantavaggo catuttho.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>
