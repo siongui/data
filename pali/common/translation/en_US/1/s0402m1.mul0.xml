@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tipitaka-latn.xsl"?>
+<TEI.2>
+<teiHeader></teiHeader>
+<text>
+<front></front>
+<body>
+
+<p rend="centre"> Namo tassa bhagavato arahato sammāsambuddhassa</p>
+
+<p rend="nikaya">Aṅguttara Nikāya</p>
+
+<p rend="book">Book of the Twos</p>
+
+<p rend="title">1. First group of fifty</p>
+
+<p rend="chapter">1. Kammakaraṇavaggo</p>
+
+<p rend="subhead">1. Vajjasuttaṃ</p>
+
+<p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> Evaṃ <pb ed="T" n="1.0061" /><pb ed="V" n="1.0063" /><pb ed="P" n="1.0047" /><pb ed="M" n="1.0049" /> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –</p>
+
+<p rend="bodytext">‘‘Dvemāni, bhikkhave, vajjāni. Katamāni dve? Diṭṭhadhammikañca vajjaṃ samparāyikañca vajjaṃ <pb ed="V" n="1.0064" />. Katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ? Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā <note>vividhāni kammakaraṇāni (ka.)</note> kārente; kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi chindante, pādampi chindante, hatthapādampi chindante, kaṇṇampi chindante, nāsampi chindante, kaṇṇanāsampi chindante, bilaṅgathālikampi karonte, saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi <pb ed="P" n="1.0048" /> karonte, eṇeyyakampi karonte, baḷisamaṃsikampi karonte, kahāpaṇikampi karonte, khārāpatacchikampi <pb ed="M" n="1.0050" /><note>khārāpaṭicchakampi (syā. kaṃ. ka.)</note> karonte, palighaparivattikampi karonte, palālapīṭhakampi <note>palālapiṭṭhikampi (sī.)</note> karonte, tattenapi telena osiñcante, sunakhehipi khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante.</p>
+
+<p rend="bodytext">‘‘Tassa evaṃ <pb ed="T" n="1.0062" /> hoti – ‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti; kasāhipi tāḷenti, vettehipi tāḷenti, addhadaṇḍakehipi tāḷenti, hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti, bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti. Ahañceva <note>ahañce (?)</note> kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā vividhā kammakāraṇā kāreyyuṃ; kasāhipi tāḷeyyuṃ…pe… asināpi sīsaṃ chindeyyu’nti. So diṭṭhadhammikassa vajjassa bhīto na paresaṃ pābhataṃ vilumpanto carati. Idaṃ vuccati, bhikkhave, diṭṭhadhammikaṃ vajjaṃ.</p>
+
+<p rend="bodytext">‘‘Katamañca, bhikkhave, samparāyikaṃ vajjaṃ? Idha, bhikkhave, ekacco iti paṭisañcikkhati – ‘kāyaduccaritassa kho pana pāpako dukkho vipāko abhisamparāyaṃ, vacīduccaritassa pāpako dukkho vipāko abhisamparāyaṃ, manoduccaritassa pāpako dukkho vipāko abhisamparāyaṃ. Ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ <pb ed="V" n="1.0065" />, manasā duccaritaṃ careyyaṃ. Kiñca taṃ yāhaṃ na kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya’nti. So <pb ed="P" n="1.0049" /> samparāyikassa vajjassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati. Idaṃ vuccati, bhikkhave, samparāyikaṃ vajjaṃ. ‘‘Imāni kho, bhikkhave, dve vajjāni. Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘diṭṭhadhammikassa vajjassa bhāyissāma, samparāyikassa vajjassa bhāyissāma, vajjabhīruno bhavissāma <pb ed="M" n="1.0051" /> vajjabhayadassāvino’ti. Evañhi vo, bhikkhave, sikkhitabbaṃ. Vajjabhīruno, bhikkhave, vajjabhayadassāvino etaṃ pāṭikaṅkhaṃ yaṃ parimuccissati <pb ed="T" n="1.0063" /> sabbavajjehī’’ti. Paṭhamaṃ.</p>
+
+<p rend="subhead">2. Padhānasuttaṃ</p>
+
+<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> ‘‘Dvemāni, bhikkhave, padhānāni durabhisambhavāni lokasmiṃ. Katamāni dve? Yañca gihīnaṃ agāraṃ ajjhāvasataṃ cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānuppadānatthaṃ padhānaṃ, yañca agārasmā anagāriyaṃ pabbajitānaṃ sabbūpadhipaṭinissaggatthaṃ padhānaṃ. Imāni kho, bhikkhave, dve padhānāni durabhisambhavāni lokasmiṃ.</p>
+
+<p rend="bodytext">‘‘Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ padhānānaṃ yadidaṃ sabbūpadhipaṭinissaggatthaṃ padhānaṃ. Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘sabbūpadhipaṭinissaggatthaṃ padhānaṃ padahissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Dutiyaṃ.</p>
+
+<p rend="subhead">3. Tapanīyasuttaṃ</p>
+
+<p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> ‘‘Dveme, bhikkhave, dhammā tapanīyā. Katame dve? Idha, bhikkhave, ekaccassa kāyaduccaritaṃ kataṃ hoti, akataṃ hoti kāyasucaritaṃ; vacīduccaritaṃ kataṃ hoti; akataṃ hoti vacīsucaritaṃ; manoduccaritaṃ kataṃ hoti, akataṃ hoti manosucaritaṃ. So ‘kāyaduccaritaṃ me kata’nti tappati, ‘akataṃ me kāyasucarita’nti tappati; ‘vacīduccaritaṃ me kata’nti tappati, ‘akataṃ me vacīsucarita’nti tappati; ‘manoduccaritaṃ me kata’nti tappati <pb ed="V" n="1.0066" />, ‘akataṃ me manosucarita’nti tappati. Ime kho, bhikkhave, dve dhammā tapanīyā’’ti. Tatiyaṃ.</p>
+
+<p rend="subhead">4. Atapanīyasuttaṃ</p>
+
+<p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> ‘‘Dveme, bhikkhave, dhammā atapanīyā. Katame <pb ed="P" n="1.0050" /> dve? Idha, bhikkhave, ekaccassa kāyasucaritaṃ kataṃ hoti, akataṃ hoti kāyaduccaritaṃ; vacīsucaritaṃ kataṃ hoti, akataṃ hoti vacīduccaritaṃ; manosucaritaṃ kataṃ hoti, akataṃ hoti manoduccaritaṃ. So ‘kāyasucaritaṃ me kata’nti na tappati, ‘akataṃ me kāyaduccarita’nti na tappati; ‘vacīsucaritaṃ me kata’nti na tappati, ‘akataṃ <pb ed="T" n="1.0064" /> me vacīduccarita’nti na tappati; ‘manosucaritaṃ me kata’nti na tappati, ‘akataṃ me manoduccarita’nti na tappati. Ime kho, bhikkhave, dve dhammā atapanīyā’’ti. Catutthaṃ.</p>
+
+<p rend="subhead">5. Relentlessly</p>
+
+<p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> "Monks, I have known two qualities through experience: discontent with regard to skillful qualities<note>In other words, not allowing oneself to rest content merely with the skillful qualities developed on the path. In the Buddha's biography, this point is illustrated by his refusal to rest content with the formless absorptions he mastered under his first two teachers. See MN 36.</note> and unrelenting exertion. Relentlessly I exerted myself, [thinking,] 'Gladly would I let the flesh &amp; blood in my body dry up, leaving just the skin, tendons, &amp; bones, but if I have not attained what can be reached through human firmness, human persistence, human striving, there will be no relaxing my persistence.' From this heedfulness of mine was attained Awakening. From this heedfulness of mine was attained the unexcelled freedom from bondage. You, too, monks, should relentlessly exert yourselves, [thinking,] 'Gladly would we let the flesh &amp; blood in our bodies dry up, leaving just the skin, tendons, &amp; bones, but if we have not attained what can be reached through human firmness, human persistence, human striving, there will be no relaxing our persistence.' You, too, in no long time will reach &amp; remain in the supreme goal of the holy life for which clansmen rightly go forth from home into homelessness, knowing &amp; realizing it for yourselves in the here &amp; now. Thus you should train yourselves: 'We will relentlessly exert ourselves, [thinking,] "Gladly would we let the flesh &amp; blood in our bodies dry up, leaving just the skin, tendons, &amp; bones, but if we have not attained what can be reached through human firmness, human persistence, human striving, there will be no relaxing our persistence."' That's how you should train yourselves." Pañcamaṃ.</p>
+
+<p rend="subhead">6. Saṃyojanasuttaṃ</p>
+
+<p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> ‘‘Dveme, bhikkhave, dhammā. Katame dve? Yā ca saṃyojaniyesu dhammesu assādānupassitā, yā ca saṃyojaniyesu dhammesu nibbidānupassitā. Saṃyojaniyesu, bhikkhave, dhammesu assādānupassī viharanto rāgaṃ na <pb ed="P" n="1.0051" /> pajahati, dosaṃ na pajahati, mohaṃ na pajahati. Rāgaṃ appahāya, dosaṃ appahāya, mohaṃ appahāya na parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. Na parimuccati dukkhasmāti vadāmi.</p>
+
+<p rend="bodytext">‘‘Saṃyojaniyesu, bhikkhave, dhammesu nibbidānupassī viharanto rāgaṃ pajahati, dosaṃ pajahati, mohaṃ pajahati. Rāgaṃ pahāya, dosaṃ pahāya, mohaṃ <pb ed="M" n="1.0053" /> pahāya, parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. Parimuccati dukkhasmāti vadāmi. Ime kho, bhikkhave, dve dhammā’’ti. Chaṭṭhaṃ.</p>
+
+<p rend="subhead">7. Kaṇhasuttaṃ</p>
+
+<p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> ‘‘Dveme, bhikkhave, dhammā kaṇhā. Katame dve? Ahirikañca anottappañca. Ime kho, bhikkhave, dve dhammā kaṇhā’’ti. Sattamaṃ.</p>
+
+<p rend="subhead">8. Sukkasuttaṃ</p>
+
+<p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> ‘‘Dveme, bhikkhave, dhammā sukkā. Katame dve? Hirī <note>hiri (sī. syā. kaṃ. pī.)</note> ca ottappañca. Ime kho, bhikkhave, dve dhammā sukkā’’ti. Aṭṭhamaṃ.</p>
+
+<p rend="subhead">9. Cariyasuttaṃ</p>
+
+<p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> "Monks, these two bright qualities guard the world. Which two? Conscience &amp; concern.<note>Concern for the results of unskillful actions.</note> If these two bright qualities did not guard the world, there would be no recognition of 'mother' here, no recognition of 'mother's sister,' 'uncle's wife,' 'teacher's wife,' or 'wife of those who deserve respect.' The world would be immersed in promiscuity, like rams with goats, roosters with pigs, or dogs with jackals. But because these two bright qualities guard the world, there is recognition of 'mother,' 'mother's sister,' 'uncle's wife,' 'teacher's wife,' &amp; 'wife of those who deserve respect.'" Navamaṃ.</p>
+
+<p rend="subhead">10. Vassūpanāyikasuttaṃ</p>
+
+<p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> ‘‘Dvemā, bhikkhave, vassūpanāyikā. Katamā dve? Purimikā ca pacchimikā ca. Imā kho, bhikkhave, dve vassūpanāyikā’’ti. Dasamaṃ.</p>
+
+<p rend="centre">Kammakaraṇavaggo paṭhamo.</p>
+
+<p rend="bodytext">Tassuddānaṃ –</p>
+
+<p rend="gatha1">Vajjā <pb ed="P" n="1.0052" /> padhānā dve tapanīyā, upaññātena pañcamaṃ;</p>
+
+<p rend="gathalast">Saṃyojanañca kaṇhañca, sukkaṃ cariyā vassūpanāyikena vaggo.</p>
+</body>
+<back></back>
+</text>
+</TEI.2>
