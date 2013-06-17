@@ -4,7 +4,7 @@
  <dt>description</dt>
   <dd>The Pāḷi Canon</dd>
  <dt>file</dt>
-  <dd>pali/common/romn/*</dd>
+  <dd>tipitaka/romn/.*</dd>
  <dt>LICENSE</dt>
   <dd>Unknown</dd>
 </dl>
@@ -17,9 +17,9 @@
  <dt>description</dt>
   <dd>A python library for translation between traditional and simplified chinese</dd>
  <dt>file</dt>
-  <dd>jianfan-0.0.2.zip</dd>
-  <dd>pali/common/gae/libs/jianfan/__init__.py</dd>
-  <dd>pali/common/gae/libs/jianfan/charsets.py</dd>
+  <dd>src/jianfan-0.0.2.zip</dd>
+  <dd>pylib/jianfan/__init__.py</dd>
+  <dd>pylib/jianfan/charsets.py</dd>
  <dt>download</dt>
   <dd><a href="https://python-jianfan.googlecode.com/files/jianfan-0.0.2.zip">jianfan-0.0.2.zip</a></dd>
  <dt>LICENSE</dt>
@@ -34,10 +34,11 @@
  <dt>description</dt>
   <dd>中文網頁繁簡轉換(webpage translation between traditional and simplified chinese)</dd>
  <dt>file</dt>
-  <dd>pali/common/app/js/ext/tongwen_table_pt2s.js</dd>
-  <dd>pali/common/app/js/ext/tongwen_table_t2s.js</dd>
-  <dd>pali/common/app/js/ext/tongwen_table_ps2t.js</dd>
-  <dd>pali/common/app/js/ext/tongwen_table_s2t.js</dd>
+  <dd>app/scripts/tongwen_core.js</dd>
+  <dd>app/scripts/tongwen_table_pt2s.js</dd>
+  <dd>app/scripts/tongwen_table_t2s.js</dd>
+  <dd>app/scripts/tongwen_table_ps2t.js</dd>
+  <dd>app/scripts/tongwen_table_s2t.js</dd>
  <dt>download</dt>
   <dd><a href="http://tongwen.openfoundry.org/src/web/tongwen_core.js">tongwen_core.js</a></dd>
   <dd><a href="http://tongwen.openfoundry.org/src/web/tongwen_table_s2t.js">tongwen_table_s2t.js</a></dd>
