@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+
+<language>
+<directory>zh_TW</directory>
+<name>Traditional Chinese</name>
+</language>
+
+<language>
+<directory>en_US</directory>
+<name>English</name>
+</language>
+
+</languages>
